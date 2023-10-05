@@ -204,7 +204,7 @@ t_test_results
 
 When we talk about a p-value less than 0.05, it basically means that there's strong evidence to say there's a real difference between two groups. In this situation, we're comparing people with diabetes to those without it. And when we looked at all the characteristics or features, they all showed this strong difference, which tells us that these traits are indeed distinct between the two groups.
 
-<h1>Confidence Intervals
+Confidence Intervals
 
 This code is trying to find out the average (mean) values of certain measurements for two groups of people: one group with "No Diabetes" and the other with "Diabetes." It's not just giving a single number for the average; it's also providing a range where we can reasonably expect the true average to fall.
 
