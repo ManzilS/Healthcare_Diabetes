@@ -410,7 +410,4 @@ else:
 
     The model predicts that there is a low likelihood of diabetes.
     
-
-    /usr/local/lib/python3.10/dist-packages/sklearn/base.py:439: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
-      warnings.warn(
     
